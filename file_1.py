@@ -13,3 +13,6 @@ def x_n(x,n): return x**n
 def sum(a,b): return a+b
 
 def dif(a,b): return a-b
+
+def sum_1_to_n(n):
+    return n*(n+1)/2
