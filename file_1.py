@@ -13,3 +13,8 @@ def x_n(x,n): return x**n
 def sum(a,b): return a+b
 
 def dif(a,b): return a-b
+
+
+"""
+New author joined the team.
+"""
