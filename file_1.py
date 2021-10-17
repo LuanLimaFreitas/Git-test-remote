@@ -13,3 +13,5 @@ def x_n(x,n): return x**n
 def sum(a,b): return a+b
 
 def dif(a,b): return a-b
+
+benchmark_x_2 = [[1,2,3,4,5],[1,2,9,16,25]]
